@@ -22,7 +22,7 @@ Let's build something valuable!
 
 ## I'm currently learning
 
-![k8s](https://img.shields.io/badge/k8s-578FFF?style=for-the-badge&logo=kubernetes&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white) ![Kserve](https://img.shields.io/badge/Kserve-578FCA?style=for-the-badge&logo=googlecloud&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white) ![k8s](https://img.shields.io/badge/MCP-7886C7?style=for-the-badge&logo=chatbot&logoColor=white) ![k8s](https://img.shields.io/badge/Cloud Native-blue?style=for-the-badge&logo=iCloud&logoColor=white)
+![k8s](https://img.shields.io/badge/k8s-578FFF?style=for-the-badge&logo=kubernetes&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white) ![Kserve](https://img.shields.io/badge/Kserve-578FCA?style=for-the-badge&logo=googlecloud&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white) ![mcp](https://img.shields.io/badge/MCP-7886C7?style=for-the-badge&logo=chatbot&logoColor=white) ![cloud native](https://img.shields.io/badge/Cloud%20Native-blue?style=for-the-badge&logo=iCloud&logoColor=white)
 
 ## Contribution Graph
 
