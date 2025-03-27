@@ -6,11 +6,25 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-Computer Science enthusiast | Full-Stack & AI Developer. Passionate about exploring AI applications (LLMs, CV) and contributing to open source. New to open source, actively working to become a contributing member. Let's build something valuable!
+Computer Science enthusiast | AI & Full-Stack Developer.
 
-### I'm currently learning
+Passionate about exploring AI applications (LLMs, CV) and contributing to open source. 
 
-<img src="https://img.shields.io/badge/k8s-3674B5?style=flat-square" style="zoom:140%;" /> <img src="https://img.shields.io/badge/Kserve-578FCA?style=flat-square" style="zoom:140%;" /> <img src="https://img.shields.io/badge/Go-71BBB2?style=flat-square" style="zoom:140%;" /> <img src="https://img.shields.io/badge/MCP-7886C7?style=flat-square" style="zoom:140%;" /> 
+New to open source, actively working to become a contributing member.
+
+Let's build something valuable!
+
+## My Interests
+
+- 💻 **Back-End Development:** Microservices, Nacos, RocketMQ, Micro-service Architecture...
+- 🌐 **Full-Stack Development:** Spring Boot, React.
+- 💬 **LLM Research:** Code Generation, RAG, Workflow, Agent...
+- 👀 **CV Research:** Model Pruning, Image Recognition.
+- 🤖 **Embodied Intelligence:** Robotics and AI integration (ROS, Python).
+
+## I'm currently learning
+
+<img src="https://img.shields.io/badge/k8s-578FFF?style=flat-square" style="zoom:140%;" /> <img src="https://img.shields.io/badge/Istio-3674B5?style=flat-square" style="zoom:140%;" /> <img src="https://img.shields.io/badge/Kserve-578FCA?style=flat-square" style="zoom:140%;" /> <img src="https://img.shields.io/badge/Go-71BBB2?style=flat-square" style="zoom:140%;" /> <img src="https://img.shields.io/badge/MCP-7886C7?style=flat-square" style="zoom:140%;" /> <img src="https://img.shields.io/badge/Cloud Native-blue?style=flat-square" style="zoom:140%;" />
 
 ## Contribution Graph
 
