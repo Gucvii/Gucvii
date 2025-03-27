@@ -1,12 +1,10 @@
-
-
 # Hi there, I'm Gucvii 👋
 
-Welcome to my GitHub profile!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=22&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## About Me
 
-Computer Science enthusiast | AI & Full-Stack Developer.
+#### Computer Science enthusiast | AI & Full-Stack Developer
 
 Passionate about exploring AI applications (LLMs, CV) and contributing to open source. 
 
@@ -28,4 +26,9 @@ Let's build something valuable!
 
 ## Contribution Graph
 
-[![Gucvii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gucvii&theme=high-contrast&radius=8&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Gucvii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gucvii&theme=high-contrast&radius=8&hide_title=true)
+
+
+
+
+
